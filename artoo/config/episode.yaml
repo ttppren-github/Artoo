@@ -1,0 +1,11 @@
+version: 1.2
+
+episode:
+  name: 'CartPole-v0'
+  count: 100
+  max_step: 200
+  enable_monitor: True
+  render:
+    enable: True
+    interval: 1
+

@@ -1,0 +1,4 @@
+pyglet==1.2.0
+gym
+PyYaml
+easydict

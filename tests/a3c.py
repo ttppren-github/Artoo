@@ -2,7 +2,7 @@ import os
 os.environ["CUDA_VISIBLE_DEVICES"] = ""
 
 import threading
-from src import envs
+from artoo import envs
 import multiprocessing
 import numpy as np
 from queue import Queue
